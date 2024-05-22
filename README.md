@@ -13,3 +13,4 @@
 </div>
 
 # Modrinth
+[https://modrinth.com/datapack/only-survival-mode](https://modrinth.com/project/only-survival-mode)
