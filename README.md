@@ -12,5 +12,7 @@
     </br>
 </div>
 
+Once if you turn on the commad option, things kind of go wrong, and that's why you need this pack.
+
 # Modrinth
 [https://modrinth.com/datapack/only-survival-mode](https://modrinth.com/project/only-survival-mode)
